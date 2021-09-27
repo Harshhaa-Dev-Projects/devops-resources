@@ -99,7 +99,7 @@ There are other DevOps roadmaps and learning plans out there. If you feel the on
 
 Name | Description
 :------|:------:
-[DevOps Roadmap](https://github.com/kamranahmedse/developer-roadmap) | DevOps skills roadmap. What to to learn at each step.
+[DevOps Roadmap](https://github.com/Harshhaa-Dev-Projects/developer-roadmap) | DevOps skills roadmap. What to to learn at each step.
 [DevOps 3 Weeks Plan](https://medium.com/@medineshkatwal/devops-3-week-plan-from-16-oct-2019-to-31st-oct-2019-af486e625f72) | Detailed plan on what to do at each day
 
 ### Learn about DevOps
